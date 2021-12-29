@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_location_fragment"
+            android:icon="@drawable/location"
+            android:title="Location" />
+        <item
+            android:id="@+id/nav_profile_fragment"
+            android:icon="@drawable/user"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_notificaiton_fragment"
+            android:icon="@drawable/notification"
+            android:title="Notification" />
+    </group>
+</menu>

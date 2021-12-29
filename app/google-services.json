@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "421388676327",
+    "project_id": "androidteset-81d0e",
+    "storage_bucket": "androidtest-81d0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421388676327:android:52a6b16268bc57de330642",
+        "android_client_info": {
+          "package_name": "com.logic.androidtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421388676327-jjsrfv5fu9kvsr0qaegla5hta83c5agk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.logic.androidtest",
+            "certificate_hash": "67bd07354e8f4b92ed4bf37fda1507253c686328"
+          }
+        },
+        {
+          "client_id": "421388676327-1bva9gr6rbh4h66jusemd834rdnjug6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBT1fVgz37o2CTFQUNCuWqisp_RL2ygeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421388676327-1bva9gr6rbh4h66jusemd834rdnjug6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
